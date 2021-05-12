@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorcechinel&label=Profile%20views&color=0e75b6&style=flat" alt="victorcechinel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorcechinel" alt="victorcechinel" /></a> </p>
-
 - 🔭 I’m currently working on [Serasa](https://www.serasa.com.br/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/search?q=devops)
