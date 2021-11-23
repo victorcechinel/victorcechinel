@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Cechinel</h1>
-<h3 align="center">DevOps, passionate about using technology to improve people’s life.</h3>
+<h3 align="center">SRE/DevOps, passionate about using technology to improve people’s life.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorcechinel&label=Profile%20views&color=0e75b6&style=flat" alt="victorcechinel" /> </p>
 
