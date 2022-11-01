@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorcechinel&label=Profile%20views&color=0e75b6&style=flat" alt="victorcechinel" /> </p>
 
-- 🔭 I’m currently working on [PicPay](https://picpay.com/site)
+- 🔭 I’m currently working on [Lend](https://lend.tech/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/search?q=devops)
 
